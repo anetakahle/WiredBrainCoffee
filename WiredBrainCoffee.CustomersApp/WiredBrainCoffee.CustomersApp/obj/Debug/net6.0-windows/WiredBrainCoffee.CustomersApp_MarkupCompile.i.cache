@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\App.xaml
-2921191225
+3-430395035
 
-6382233789
+7-72709331
 194-1797456590
-Controls\HeaderControl.xaml;MainWindow.xaml;
+Controls\HeaderControl.xaml;MainWindow.xaml;View\CustomersView.xaml;
 
 False
 
