@@ -19,3 +19,6 @@ C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoff
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.pdb
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.genruntimeconfig.cache
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\ref\WiredBrainCoffee.CustomersApp.dll
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Controls\HeaderControl.g.cs
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Controls\HeaderControl.baml
