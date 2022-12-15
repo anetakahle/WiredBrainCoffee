@@ -17,6 +17,8 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
 
         public ObservableCollection<Customer> Customers { get; } = new();
 
+        public Customer? SelectedCustomer { get; set; }
+
         public async Task LoadAsync()
         {
             if (Customers.Any())
@@ -27,7 +29,7 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
             var customers = await _customerDataProvider.GetAllAsync();
             if (customers is not null)
             {
-                foreach (var customer in Customers)
+                foreach (var customer in customers)
                 {
                     Customers.Add(customer);
                 }
