@@ -37,5 +37,10 @@ namespace WiredBrainCoffee.CustomersApp.View
             var newColumn = column == 0 ? 2 : 0;
             Grid.SetColumn(CustomerListGrid, newColumn);
         }
+
+        private void ButtonAdd_Click(object sender, RoutedEventArgs e)
+        {
+            _viewModel.Add();
+        }
     }
 }
