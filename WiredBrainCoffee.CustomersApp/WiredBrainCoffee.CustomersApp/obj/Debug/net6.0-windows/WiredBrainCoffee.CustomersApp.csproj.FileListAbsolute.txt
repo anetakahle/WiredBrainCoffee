@@ -24,3 +24,4 @@ C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoff
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Controls\HeaderControl.baml
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\CustomersView.g.cs
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\CustomersView.baml
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\App.baml
