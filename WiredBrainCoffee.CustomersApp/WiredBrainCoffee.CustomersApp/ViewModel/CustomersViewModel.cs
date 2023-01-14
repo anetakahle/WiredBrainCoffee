@@ -17,11 +17,14 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
         public DelegateCommand AddCommand { get; set; }
         public DelegateCommand MoveNavigationCommand { get; set; }
 
+        public DelegateCommand DeleteCommand { get; set; }
+
         public CustomersViewModel(ICustomerDataProvider customerDataProvider)
         {
             _customerDataProvider = customerDataProvider;
             AddCommand = new DelegateCommand(Add);
             MoveNavigationCommand = new DelegateCommand(MoveNavigation);
+            DeleteCommand = new DelegateCommand(Delete, CanDelete);
         }
 
         public ObservableCollection<CustomerItemViewModel> Customers => _customers;
@@ -34,6 +37,7 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
                 if (Equals(value, _selectedCustomer)) return;
                 _selectedCustomer = value;
                 RaisePropertyChanged();
+                DeleteCommand.RaiseCanExecuteChanged();
             }
         }
 
@@ -77,6 +81,17 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
             NavigationSide = NavigationSide == NavigationSide.Left 
                 ? NavigationSide.Right : NavigationSide.Left;
         }
+
+        private void Delete(object? parameter)
+        {
+            if (SelectedCustomer is not null)
+            {
+                Customers.Remove(SelectedCustomer);
+                SelectedCustomer = null;
+            }
+        }
+
+        private bool CanDelete(object? parameter) => SelectedCustomer != null;
     }
 
     public enum NavigationSide
