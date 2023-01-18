@@ -54,7 +54,7 @@ namespace WiredBrainCoffee.CustomersApp.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WiredBrainCoffee.CustomersApp;component/view/customersview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WiredBrainCoffee.CustomersApp;V1.0.0.0;component/view/customersview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\CustomersView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
