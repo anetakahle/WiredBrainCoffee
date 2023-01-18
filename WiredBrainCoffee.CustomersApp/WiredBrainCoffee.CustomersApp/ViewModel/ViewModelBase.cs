@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Threading.Tasks;
 
 namespace WiredBrainCoffee.CustomersApp.ViewModel;
 
@@ -25,4 +26,6 @@ public class ViewModelBase : INotifyPropertyChanged
         OnPropertyChanged(propertyName);
         return true;
     }
+
+    public virtual Task LoadAsync() => Task.CompletedTask;
 }
