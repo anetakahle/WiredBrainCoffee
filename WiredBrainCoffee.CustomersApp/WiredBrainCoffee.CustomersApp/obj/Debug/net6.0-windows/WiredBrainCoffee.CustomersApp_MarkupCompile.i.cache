@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\App.xaml
-51441988107
+62049240828
 
-15-1185412700
+171048068020
 194237474483
-Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;View\CustomersView.xaml;
+Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;View\CustomersView.xaml;View\ProductsView.xaml;
 
 True
 
