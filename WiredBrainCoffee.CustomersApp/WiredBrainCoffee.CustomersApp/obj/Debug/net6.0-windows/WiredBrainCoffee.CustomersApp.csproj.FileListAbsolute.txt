@@ -29,3 +29,6 @@ C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoff
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Resources\Converters.baml
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\ProductsView.g.cs
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\ProductsView.baml
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.csproj.CopyComplete

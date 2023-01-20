@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O326libyswJ9YJaPef4rNqoyc0uW2yEOUbWt0q3ftljARnyKlU6/QzJA3mILwqI+fIR0I+fIObeXjp18TS8wEw==",
+  "dgSpecHash": "7KdGqji1aGAReOBBzzXMnhUVn/yYnl592tWOlcmpzM7S8j0emBfJiTbW+KCk3ylAO9DXvo5UxX3B7hvhySOS5A==",
   "success": true,
   "projectFilePath": "C:\\Source_Practice\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nicholas.poole\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\nicholas.poole\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
