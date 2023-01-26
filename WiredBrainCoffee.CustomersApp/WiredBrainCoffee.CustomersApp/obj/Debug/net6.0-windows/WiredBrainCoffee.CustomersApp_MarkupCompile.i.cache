@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\App.xaml
 72067005704
 
-19-496098105
+201276993969
 196239677092
 Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;Resources\Styles.xaml;View\CustomersView.xaml;View\ProductsView.xaml;
 
-True
+False
 
