@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\resources\\brushes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\resources\\brushes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\controls\\headercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\controls\\headercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\data\\customerdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\data\\customerdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|c:\\users\\z004wx2n\\documents\\github\\wiredbraincoffee\\wiredbraincoffee.customersapp\\wiredbraincoffee.customersapp\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8535A2E1-D75F-4225-93A1-344FEC8118C8}|WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj|solutionrelative:wiredbraincoffee.customersapp\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brushes.xaml",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Resources\\Brushes.xaml",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\Resources\\Brushes.xaml",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Resources\\Brushes.xaml",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\Resources\\Brushes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T19:29:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\MainWindow.xaml",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T19:25:23.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Data\\CustomerDataProvider.cs",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\Data\\CustomerDataProvider.cs",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Data\\CustomerDataProvider.cs",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\Data\\CustomerDataProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:21:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeaderControl.xaml",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Controls\\HeaderControl.xaml",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\Controls\\HeaderControl.xaml",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Controls\\HeaderControl.xaml",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\Controls\\HeaderControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T19:16:03.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T19:09:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersView.xaml",
+              "DocumentMoniker": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\View\\CustomersView.xaml",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.CustomersApp\\View\\CustomersView.xaml",
+              "ToolTip": "C:\\Users\\z004wx2n\\Documents\\GitHub\\WiredBrainCoffee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\View\\CustomersView.xaml",
+              "RelativeToolTip": "WiredBrainCoffee.CustomersApp\\View\\CustomersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T19:09:58.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

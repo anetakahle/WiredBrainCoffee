@@ -20,12 +20,14 @@ namespace WiredBrainCoffee.CustomersApp.Data
 
             return new List<Customer>
             {
-                new Customer { Id = 1, FirstName = "Julia", LastName = "Developer", IsDeveloper = true },
-                new Customer { Id = 2, FirstName = "Alex", LastName = "Rider"},
-                new Customer { Id = 3, FirstName = "Thomas Claudius", LastName = "Huber", IsDeveloper = true},
-                new Customer { Id = 4, FirstName = "Anna", LastName = "Rockstar"},
-                new Customer { Id = 5, FirstName = "Sara", LastName = "Metroid"},
-                new Customer { Id = 6, FirstName = "Ben", LastName = "Ronaldo"}
+                new Customer { Id = 1, FirstName = "Aneta", LastName = "Kahleova", IsDeveloper = true },
+                new Customer { Id = 2, FirstName = "Tomas", LastName = "Hradec", IsDeveloper = true },
+                new Customer { Id = 3, FirstName = "Dan", LastName = "Markanovic", IsDeveloper = true },
+                new Customer { Id = 4, FirstName = "Dan", LastName = "Holec", IsDeveloper = true },
+                new Customer { Id = 5, FirstName = "Linh", LastName = "Phamova", IsDeveloper = true },
+                new Customer { Id = 6, FirstName = "Martin", LastName = "Goffa", IsDeveloper = true },
+                new Customer { Id = 7, FirstName = "Kristyna", LastName = "Skyvova" }
+
             };
         }
     }

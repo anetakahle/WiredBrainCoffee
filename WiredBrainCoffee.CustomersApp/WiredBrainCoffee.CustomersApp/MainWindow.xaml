@@ -43,7 +43,7 @@
 
 
         <StatusBar Grid.Row="3">
-            <StatusBarItem FontSize="20" Content=" ( c ) Wired Brain Coffee"></StatusBarItem>
+            <StatusBarItem FontSize="20" Content=" ( c ) DBZ Team"></StatusBarItem>
         </StatusBar>
     </Grid>
 </Window>

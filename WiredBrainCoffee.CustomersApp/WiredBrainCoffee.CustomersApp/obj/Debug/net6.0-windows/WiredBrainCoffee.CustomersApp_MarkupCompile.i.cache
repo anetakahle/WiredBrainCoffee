@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\
+C:\Users\z004wx2n\Documents\GitHub\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\
 WiredBrainCoffee.CustomersApp
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Source_Practice\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\App.xaml
+C:\Users\z004wx2n\Documents\GitHub\WiredBrainCoffee\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp\App.xaml
 72067005704
 
 201276993969
-196239677092
+196-1359118469
 Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;Resources\Styles.xaml;View\CustomersView.xaml;View\ProductsView.xaml;
 
 False
